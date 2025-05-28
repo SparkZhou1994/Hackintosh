@@ -33,3 +33,25 @@ date 062614102014.30
 ```
 ### OpenCore
 OpenCore 0.8.8 x64
+## BIOS Setting
+### Configuration
+|Parameter|Value|
+|:-:|:-:|
+|Wireless|Enabled|
+|Power Beep|Disabled|
+|Intel Virtual Technology|Enabled|
+|BIOS Back Flash|Disabled|
+|Hotkey Mode|Disabled|
+|Always On USB|Enabled|
+### Security
+|Parameter|Value|
+|:-:|:-:|
+|Secure Boot|Disabled|
+### Boot
+|Parameter|Value|
+|:-:|:-:|
+|Boot Mode|UEFI|
+|USB Boot|Enabled|
+|PXE Boot to Lan|Enabled|
+## 致谢(Acknowledgment)
+这台笔记本是我姑姑在2016年买给我的，可能因为我爸当时帮忙给她装修房子的原因。那会儿我对电脑硬件也不太懂，打算网上看看配置再在淘宝上对比一下价格，但还是被姑姑拉去了苏宁易购。结果3998买来的，一个月后才发现是核显，亏大了。为了让这台笔记本更具价值，打算黑苹果，但当时英特尔的无线网卡可以说是无解的，我便放弃了。2022年，姑姑离开了我😭 我希望这台笔记本能永远陪着我。说起这台笔记本的硬盘，还是我的初恋给我买的，因为第一次谈恋爱没什么经验，总是吵架，最后还是分开了。如今我经历了那么多，才发觉曾经的自己是多么的幼稚，现她已为人妻，内心默默祝福她，不打扰她。
