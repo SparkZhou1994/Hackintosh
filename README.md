@@ -59,8 +59,8 @@ OpenCore 0.8.8 x64
 - [x] Battery Readings
 - [x] Ethernet
 - [x] Wifi + Bluetooth
-- [] Display Brightness Control (It can't change the display brightness even in windows)
-- [] Sleep Functionality (It will be a black screen in a low probability)
+- [ ] Display Brightness Control (It can't change the display brightness even in windows)
+- [ ] Sleep Functionality (It will be a black screen in a low probability)
 - [x] Lid Close and Open
 - [x] USB ports
 - [x] Webcam
